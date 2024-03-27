@@ -6,9 +6,9 @@
 
 - `a[a-z]?`
 
-`a`
+`a` ✔️
 
-`ag`
+`ag`✔️
 
 ? means optional
 
@@ -18,10 +18,10 @@
 
 - `a[a-z]*`
 
-`ajhfbhvfjvshufie`
+`ajhfbhvfjvshufie` ✔️
 
 `*` matches the previous token between zero and unlimited times, as many times as possible
 
 - The backslash `(\)` in regular expressions is a powerful character known as the `escape` character.
 
-`abs\*` matches only abs\*
+`abs\*` matches only abs\* ✔️
