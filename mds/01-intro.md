@@ -1,5 +1,11 @@
 # Regular Expression
 
+## What is regular expression?
+
+- `Regular expression` is a sequence of characters that defines a search pattern.
+
+---
+
 - `Regular expressions` (regex) can indeed often be found between slashes `(/)` in many programming languages, especially in JavaScript. The `slashes /` indicate the start and end of the regex pattern.
 
 - `i` - Case `insensitive`: Makes the match case-insensitive, allowing "a" to match both "a" and "A".
