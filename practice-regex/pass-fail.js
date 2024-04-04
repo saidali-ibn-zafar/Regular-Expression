@@ -76,3 +76,11 @@ user*name
 
 let res = checkAll(strings);
 console.log(res);
+
+// - - - - 
+
+// checking valid emails
+
+let regExForEmails = /^[\w.-]+@[a-zA-Z0-9]+([.a-z]+)?$/gm
+
+// try to write the function for checking multi lines of emails and replace them with some other strings...
